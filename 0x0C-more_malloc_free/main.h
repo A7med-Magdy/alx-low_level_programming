@@ -1,8 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-#include <stdlib.h>
-
 void _is_zero(char *argv[]);
 char *_initialize_array(char *ar, int lar);
 int _checknum(char *argv[], int n);
